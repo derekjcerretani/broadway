@@ -3,6 +3,16 @@ body {
   font-family: helvetica;
 }
 
+#heading{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+#heading.p {
+  font-size: 18px;
+  color: white
+  font-weight: bold;
+}
+
 h1  {
   font-size: 70px;
   font-weight: bold;
@@ -21,6 +31,7 @@ h3 {
 
 h3.banner {
   color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 #footer {
